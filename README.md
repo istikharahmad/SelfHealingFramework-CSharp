@@ -1,2 +1,2 @@
 # SelfHealingFramework-CSharp
-Reusable self-healing test framework in C# for Selenium
+A reusable self-healing test automation framework in C# using Selenium WebDriver.
